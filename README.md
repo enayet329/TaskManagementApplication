@@ -15,7 +15,7 @@ A comprehensive task management web application built with .NET Core 6, Entity F
 
 ## Technology Stack
 
-- **Backend**: .NET Core 6.0
+- **Backend**: .NET Core 9.0
 - **Database**: SQL Server LocalDB with Entity Framework Core
 - **Authentication**: ASP.NET Core Identity
 - **Frontend**: Razor Views with Bootstrap 5
@@ -140,15 +140,3 @@ TaskManagementApp/
 - Email notifications
 - Calendar integration
 - Mobile app
-
-## Submission Information
-
-**Developed by**: [Your Name]
-**Email**: [Your Email]
-**Date**: [Current Date]
-**Position**: Junior ASP.NET Core Developer
-**Company**: CSM Bangladesh Ltd.
-
-## License
-
-This project is developed as a coding test assignment for CSM Bangladesh Ltd.
