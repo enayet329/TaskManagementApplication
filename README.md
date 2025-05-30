@@ -131,12 +131,3 @@ TaskManagementApp/
 - No task priority levels
 - No file attachments for tasks
 
-## Future Enhancements
-
-- Task categories and tags
-- Priority levels
-- File attachments
-- Task sharing between users
-- Email notifications
-- Calendar integration
-- Mobile app
