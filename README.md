@@ -1,6 +1,6 @@
 ﻿# Task Management Web Application
 
-A comprehensive task management web application built with .NET Core 6, Entity Framework Core, and Bootstrap 5.
+A comprehensive task management web application built with .NET Core 9, Entity Framework Core, and Bootstrap 5.
 
 ## Features
 
@@ -25,7 +25,7 @@ A comprehensive task management web application built with .NET Core 6, Entity F
 ## Setup Instructions
 
 1. **Prerequisites**
-   - .NET 6.0 SDK or later
+   - .NET 9.0 SDK or later
    - Visual Studio 2022 or VS Code
    - SQL Server LocalDB (included with Visual Studio)
 
